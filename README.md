@@ -2,7 +2,7 @@
 
 ![Discord Bot](https://img.shields.io/badge/Discord-Bot-7289DA?style=for-the-badge&logo=discord)
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python)
-![Render](https://img.shields.io/badge/Render-Deploy-46E3B7?style=for-the-badge&logo=render)
+
 
 A comprehensive Discord bot with **50+ slash commands** covering entertainment, utility, math, and information features.
 
@@ -180,3 +180,4 @@ Your Ultra Discord Bot is now ready to be deployed on Render with:
 - ✅ Auto-scaling capabilities
 
 Deploy now and enjoy your 24/7 Discord bot! 🚀
+
